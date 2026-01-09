@@ -1,4 +1,4 @@
-# Expense Tracker
+<img width="2554" height="973" alt="зображення" src="https://github.com/user-attachments/assets/65b87fd6-7d6c-41e2-a7c2-3ef6d37fec25" /># Expense Tracker
 
 A simple web application to track income and expenses. Allows you to add transactions, view your balance, and analyze your finances.
 
@@ -24,5 +24,5 @@ You can run the app directly from GitHub Pages:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/expense-tracker.git
+git clone https://github.com/sney-it/expense-tracker.git
 ```
