@@ -17,7 +17,7 @@ A simple web application to track income and expenses. Allows you to add transac
 ## Live Demo
 
 You can run the app directly from GitHub Pages:  
-[View Demo](#) (coming soon)
+[View Demo](https://sney-it.github.io/expense-tracker/)
 
 ## Running Locally
 
