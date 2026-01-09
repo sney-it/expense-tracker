@@ -1,4 +1,4 @@
-<img width="2554" height="973" alt="зображення" src="https://github.com/user-attachments/assets/65b87fd6-7d6c-41e2-a7c2-3ef6d37fec25" /># Expense Tracker
+# Expense Tracker
 
 A simple web application to track income and expenses. Allows you to add transactions, view your balance, and analyze your finances.
 
